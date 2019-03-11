@@ -72,3 +72,12 @@
     -o-border-radius: 4px;
     margin-top: 15px;
 }
+
+#navbarDropdownMenu li {
+    width: 100%;
+}
+
+#navbarDropdownMenu li a {
+    height: 100%;
+    font-size: 15px ;
+}
